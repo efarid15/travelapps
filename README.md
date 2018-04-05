@@ -1,2 +1,2 @@
 # travelapps
-My Project Travel
+My Project Travel - Ruby & Rails
